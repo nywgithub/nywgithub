@@ -1,8 +1,8 @@
-### 🚀 Welcome to luffyZh Zone
+### 🚀 Welcome to niyongwei Zone
 
 Here is some personal information about me:
 
-- 🔭 I'm Chinese and currently working in NnaJing.
+- 🔭 I'm Chinese and currently working in NanJing.
 - 📖 I'm currently learning && using React.js/Next.js...
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
 
