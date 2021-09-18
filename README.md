@@ -2,11 +2,9 @@
 
 Here is some personal information about me:
 
-- 🔭 I'm Chinese and currently working in Hangzhou.
+- 🔭 I'm Chinese and currently working in NnaJing.
 - 📖 I'm currently learning && using React.js/Next.js...
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
-- 📫 How to reach me: zhoudeyou945@126.com.
-- 💬 Wechat: zhoudeyou945.
 
 **🔧 Language && Tools**  
 
