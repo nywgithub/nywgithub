@@ -17,5 +17,3 @@ Here is some personal information about me:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luffyZh&theme=buefy)](https://github.com/luffyZh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://juejin.cn/user/96412752681079/posts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=next-antd-scaffold&theme=buefy)](https://github.com/luffyZh/next-antd-scaffold)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luffyZh&repo=dynamic-antd-theme&theme=buefy)](https://github.com/luffyZh/dynamic-antd-theme)
