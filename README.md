@@ -2,7 +2,7 @@
 
 Here is some personal information about me:
 
-- 🔭 I'm Chinese and currently working in NanJing.
+- 🔭 I'm Chinese and currently working in HangZhou.
 - 📖 I'm currently learning && using React.js/Vue.js...
 - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
 
